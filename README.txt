@@ -1,7 +1,8 @@
 // Arduino 2.4" TouchScreen LCD ILI9341 Basic Example Code
 // By Kreezy(KRosa) 1.20.2018
 
-// Install Andersmmg to your library folder
+// Copy libraries folder to your Arduino libraries folder
+// Open Example code in the KreezyILI9341LCDExp Folder
 // Check the code to make sure the pins declared match your setup
 // If not then you need to change the pins to make your setup or vice versa
 // After uploading the code, check the serial monitor to see if its working and check LCD driver
